@@ -14,6 +14,6 @@ I’ve been working in Web Development for a long time now, I still really enjoy
 
 <details>
 <summary>Click for GitHub Stats</summary>
-  <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=topheman&show_icons=true&hide=contribs&icon_color=000000&hide_border=true">
+  <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=topheman&show_icons=true">
 </p>
 </details>
